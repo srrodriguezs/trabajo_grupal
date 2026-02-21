@@ -1,7 +1,7 @@
 Equipo de Desarrollo
 
 Integrantes:
-1. Hector Julio Rosas Rivera - Backend 1
+1. Hector Julio Rosas Rivera - Backend
 2. Sebastián Rafaél Rodríguez SUarez
 
 Proyecto:
