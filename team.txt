@@ -3,7 +3,12 @@ Equipo de Desarrollo
 Integrantes:
 1. Hector Julio Rosas Rivera - Backend
 2. Sebastián Rafaél Rodríguez Suarez - Backend
+3. Fernandes paramilo
 
 Proyecto:
 Aplicación de perfiles del equipo
+<<<<<<< HEAD
 Versión: 1.5 (Hector eres malo :C)
+=======
+Versión: 1.12 (cambios de codigo y sebas67)
+>>>>>>> feature-version-Hector76
