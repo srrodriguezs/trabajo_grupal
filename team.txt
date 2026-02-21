@@ -6,3 +6,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
+Versión: 1.0
