@@ -6,4 +6,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
-Versión: 1.0
+Versión: 1.5 Actualizacion del Hector malvado
